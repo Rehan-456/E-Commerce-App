@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mobile Phone",
+        "id": 1,
+        "price": "$200",
+        "discription": "This is an amazing mobile phone",
+        "mediaUrl": "https://images.unsplash.com/photo-1573148195900-7845dcb9b127?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aXBob25lfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 2,
+        "name": "Mobile",
+        "price": "100$",
+        "mediaUrl": "https://images.unsplash.com/photo-1567581935884-3349723552ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9iaWxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "discription": "ku,k"
+    },
+    {
+        "id": 3,
+        "name": "MacBook",
+        "price": "300$",
+        "mediaUrl": "https://media.istockphoto.com/id/1389603578/photo/laptop-blank-screen-on-wood-table-with-blurred-coffee-shop-cafe-interior-background-and.webp?b=1&s=170667a&w=0&k=20&c=fPqy8pPGL4IQa2LvQQ2tX9qUPmIhPfmqu-xEVMEC1vY=",
+        "description": "Mackbook Pro"
+    },
+    {
+        "id": 4,
+        "name": "T-Shirts",
+        "price": "100$",
+        "mediaUrl": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dCUyMHNoaXJ0fGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "T-shirt Bundles"
+    }
+]
